@@ -1,3 +1,7 @@
 
 Collaboration Demo Project
 Version 1.0
+
+Sample app file for collaboration-demo.
+
+Purpose: Demo project structure for team collaboration.
